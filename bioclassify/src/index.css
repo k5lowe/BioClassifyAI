@@ -5,7 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  background-image: url("C:\Users\kushi\OneDrive\Documents\Python Projects\Biomedical-Image-Classification-AI\test\src\Components\Assets\wallpaper2.jpg");
+  background-size: 3000px;
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
